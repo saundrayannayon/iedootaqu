@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oowomohquu.cherokee-project.com/sitemap.xml
